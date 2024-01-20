@@ -1,4 +1,4 @@
-### Hi there 👋
+### Software Engineering Student @ Concordia University
 
 <!--
 **vitorizz/vitorizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
